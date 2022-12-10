@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.uit.microservice_base_project.MicroserviceBaseProjectApp
+ lication
+
